@@ -2,8 +2,18 @@
   "name": "pebble-math-sll",
   "author": "Kevin Michael Woley",
   "version": "1.19.1",
-  "files": ["dist.zip"],
-  "keywords": ["pebble-package"],
+  "repository": "kmwoley/pebble-math-sll",
+  "license": "MIT license",
+  "description": "A fixed point (31.32 bit) math library for Pebble smart watches.",
+  "files": [
+    "dist.zip"
+  ],
+  "keywords": [
+    "pebble-package",
+    "math-sll",
+    "floating point",
+    "fixed point"
+  ],
   "dependencies": {},
   "pebble": {
     "projectType": "package",
